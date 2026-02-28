@@ -1,0 +1,30 @@
+mat-card {
+    max-width: 400px;
+    height: 400px;
+    margin: 4rem auto;
+    padding: 2rem;
+    text-align: center;
+    align-items: center;
+    background-color: transparent;
+}
+
+.form-content {
+    padding-top: 1rem;
+}
+
+.login-container {
+    background-image: url('./../../assets/login.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+}
+
+mat-card-title {
+    color: white;
+}
+
+.login-content {
+    color: white;
+    text-align: center;
+    padding-top: 2.5rem;
+}

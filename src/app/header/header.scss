@@ -1,0 +1,25 @@
+.header-content {
+//   background-color: #333;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+.align-left {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  text-align: left;
+}
+
+.align-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
